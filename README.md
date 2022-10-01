@@ -2,7 +2,7 @@
 
 Hello. Am Software-er. I unsuccessfully attempt to make computers do what I want. 
 
-![HH756 Stats](https://github-readme-stats.vercel.app/api?username=HH756&hide=contribs,prs)
+![HH756 Stats](https://github-readme-stats.vercel.app/api?username=HH756&show_icons=true&count_private=true)
 #
 
 
